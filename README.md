@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Behnam
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a wordpress web designer.
+- 🌱 my final goal is to become a frontend web developer.
+- 📫 How to reach me:
+- email: behnamfazlali724@gmail.com
+- telegram: @Behnamfzl
 
 <!---
 Behnam79f/Behnam79f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
